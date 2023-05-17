@@ -123,9 +123,21 @@ border-radius:20px</string>
      <rect>
       <x>210</x>
       <y>80</y>
-      <width>256</width>
-      <height>192</height>
+      <width>732</width>
+      <height>536</height>
      </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>732</width>
+      <height>536</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>732</width>
+      <height>536</height>
+     </size>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_4">
